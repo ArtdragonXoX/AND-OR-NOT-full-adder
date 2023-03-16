@@ -1,4 +1,4 @@
-from PySide6.QtWidgets import QApplication,QMainWindow,QTableWidgetItem,QLabel
+from PySide6.QtWidgets import QApplication,QMainWindow,QTableWidgetItem
 from PySide6.QtCore import  Qt,Signal,QObject
 from ui_demo import Ui_MainWindow
 import time
