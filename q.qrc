@@ -1,0 +1,28 @@
+<RCC>
+  <qresource prefix="images">
+    <file>F:/素材/图片/全加器.jpg</file>
+    <file>E:/照片/纳西妲.jpg</file>
+    <file>F:/素材/图片/全加器.png</file>
+  </qresource>
+  <qresource prefix="arr">
+    <file>全加器/本位A为0.png</file>
+    <file>全加器/本位A为1.png</file>
+    <file>全加器/本位B为0.png</file>
+    <file>全加器/本位B为1.png</file>
+    <file>全加器/本位结果为0.png</file>
+    <file>全加器/本位结果为1.png</file>
+    <file>全加器/本位异或为0.png</file>
+    <file>全加器/本位异或为1.png</file>
+    <file>全加器/进位OUT为0.png</file>
+    <file>全加器/进位OUT为1.png</file>
+    <file>全加器/进位前值A为0.png</file>
+    <file>全加器/进位前值A为1.png</file>
+    <file>全加器/进位前值B为0.png</file>
+    <file>全加器/进位前值B为1.png</file>
+    <file>全加器/进位为0.png</file>
+    <file>全加器/进位为1.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>F:/素材/图片/黑×.png</file>
+  </qresource>
+</RCC>
